@@ -1,0 +1,23 @@
+{
+  "name": "creating-first-server-10567",
+  "version": "1.0.0",
+  "description": "our first node.js server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anshikaj69/Creating-first-server-10567.git"
+  },
+  "author": "Anshika Jaiswal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anshikaj69/Creating-first-server-10567/issues"
+  },
+  "homepage": "https://github.com/Anshikaj69/Creating-first-server-10567#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
